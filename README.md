@@ -1,0 +1,1 @@
+This research assignment explored fundamental conepts in data science such as data modeling, data warehousing, data intergration, ethical and gorvenance and many others. It gave the researcher an appreciation of the data science field. Definitions, illustrations and real-world examples were provided.
